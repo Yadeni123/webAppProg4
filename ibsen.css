@@ -33,3 +33,25 @@
 .hedvig {
     color: #4b0082;
 }
+
+table {
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+    margin: 20px 0;
+    text-align: left;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #dddddd;
+}
+
+th {
+    background-color: #333333;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
