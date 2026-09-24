@@ -1,0 +1,35 @@
+.speech, .q {
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    color: black;
+}
+
+.direction {
+    background-color: #f8f9fa;
+    font-style: italic;
+    padding: 6px;
+    border-left: 3px solid #ccc;
+}
+
+.direction:hover {
+    background-color: #e2e6ea;
+    color: #212529;
+}
+
+.name {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.hialmar {
+    color: #8b0000;
+}
+
+.gina {
+    color: #2e8b57;
+}
+
+.hedvig {
+    color: #4b0082;
+}
